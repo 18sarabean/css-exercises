@@ -2,5 +2,21 @@
 
 .class-one {
     background-color: rgb(255, 204, 203);
-    text: verdana;
+}
+.class-two {
+    font: Verdana;
+    font-size: 18px;
+}
+.class-three {
+    font: DejaVu Sans;
+    font-size: 24px;
+}
+#id-one {
+    font-size: 36px;
+    color: rgb(0,0,255);
+}
+#id-two {
+    font-size: 24px;
+    background-color: rgb(152,251,152);
+    font-weight: bold;
 }
