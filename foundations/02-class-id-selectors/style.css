@@ -4,11 +4,11 @@
     background-color: rgb(255, 204, 203);
 }
 .class-two {
-    font: Verdana;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     font-size: 18px;
 }
 .class-three {
-    font: DejaVu Sans;
+    font-family: Verdana, "DejaVu Sans" sans-serif;
     font-size: 24px;
 }
 #id-one {
