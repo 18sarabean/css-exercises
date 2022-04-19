@@ -1,0 +1,12 @@
+.class-one {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.class-two {
+    color: #000000;
+    background-color: #FFFF00;
+}
+.class-three {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
